@@ -1,2 +1,4 @@
 # Capstone
-Samples of the code developped for my capstone project at BrainStation
+A fraction of the code developped as part of my capstone project at BrainStation.
+Only Jupyter notebooks.
+
